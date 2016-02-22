@@ -19,44 +19,43 @@ public class CalculatorTest {
 	public void testCalculator() {
 		
 		Calculator myCalculator = new Calculator();
-		fail("Default fail assert");
 		assertNotNull("Object doesn't return a null", myCalculator);
 	}
 
 	/* Test method for correct total */
 	@Test
 	public void testGetTotal() {
-		
+		fail("Not Yet Implemented");
 	}
 
 	/* Test method for addition */
 	@Test
 	public void testAdd() {
-		
+		fail("Not Yet Implemented");
 	}
 
 	/* Test method for subtraction */
 	@Test
 	public void testSubtract() {
-		
+		fail("Not Yet Implemented");
 	}
 
 	/* Test method for multiplication */
 	@Test
 	public void testMultiply() {
-		
+		fail("Not Yet Implemented");
 	}
 
 	/* Test method for division */
 	@Test
 	public void testDivide() {
-		
+		fail("Not Yet Implemented");
 	}
 
 	/* Test method for getting history of operations */
 	@Test
 	public void testGetHistory() {
-		
+		fail("Not Yet Implemented");
 	}
 
 }
