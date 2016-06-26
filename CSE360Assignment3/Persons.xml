@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Persons xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Person>
+		<Name>
+			<First>Asuma</First>
+			<Last>Sarutobi</Last>
+		</Name>
+		<Credential>
+			<ID>100</ID>
+			<PWD encryption = "Yes">asuma100</PWD>
+		</Credential>
+		<Phone>
+			<Work>4806164124</Work>
+			<Cell Provider = "Sprint">4806164127</Cell>
+		</Phone>
+		</Category>Friend</Category>
+	</Person>
+	<Person>
+		<Name>
+			<First>Vishal</First>
+			<Last>Chilka</Last>
+		</Name>
+		<Credential>
+			<ID>101</ID>
+			<PWD encryption = "Yes">vishal101</PWD>
+		</Credential>
+		<Phone>
+			<Work>4806164224</Work>
+			<Cell Provider = "Sprint">4806164128</Cell>
+		</Phone>
+		</Category>Friend</Category>
+	</Person>
+	<Person>
+		<Name>
+			<First>Naruto</First>
+			<Last>Uzumaki</Last>
+		</Name>
+		<Credential>
+			<ID>102</ID>
+			<PWD encryption = "Yes">naruto103</PWD>
+		</Credential>
+		<Phone>
+			<Work>4806164324</Work>
+			<Cell>4806164129</Cell>
+		</Phone>
+		</Category>Friend</Category>
+	</Person>
+	<Person>
+		<Name>
+			<First>Sasuke</First>
+			<Last>Uchiha</Last>
+		</Name>
+		<Credential>
+			<ID>103</ID>
+			<PWD encryption = "Yes">sasuke103</PWD>
+		</Credential>
+		<Phone>
+			<Work>4806164424</Work>
+			<Cell Provider = "Tmobile">4806164130</Cell>
+		</Phone>
+		</Category>Friend</Category>
+	</Person>
+	<Person>
+		<Name>
+			<First>Sakura</First>
+			<Last>Haruno</Last>
+		</Name>
+		<Credential>
+			<ID>104</ID>
+			<PWD encryption = "Yes">sakura104</PWD>
+		</Credential>
+		<Phone>
+			<Work>4806164524</Work>
+			<Cell>4806164131</Cell>
+		</Phone>
+		</Category>Friend</Category>
+	</Person>
+	<Person>
+		<Name>
+			<First>Itachi</First>
+			<Last>Uchiha</Last>
+		</Name>
+		<Credential>
+			<ID>105</ID>
+			<PWD encryption = "Yes">itachi105</PWD>
+		</Credential>
+		<Phone>
+			<Work>4806164624</Work>
+			<Cell Provider = "Tmobile">4806164132</Cell>
+		</Phone>
+		</Category>Work</Category>
+	</Person>
+	<Person>
+		<Name>
+			<First>Madara</First>
+			<Last>Uchiha</Last>
+		</Name>
+		<Credential>
+			<ID>106</ID>
+			<PWD encryption = "Yes">madara106</PWD>
+		</Credential>
+		<Phone>
+			<Work>4806164724</Work>
+			<Cell Provider = "Tmobile">4806164133</Cell>
+		</Phone>
+		</Category>Work</Category>
+	</Person>
+	<Person>
+		<Name>
+			<First>Sasori</First>
+			<Last>Myman</Last>
+		</Name>
+		<Credential>
+			<ID>107</ID>
+			<PWD encryption = "Yes">sasori107</PWD>
+		</Credential>
+		<Phone>
+			<Work>4806164824</Work>
+			<Cell Provider = "ATT">4806164134</Cell>
+		</Phone>
+		</Category>Work</Category>
+	</Person>
+	<Person>
+		<Name>
+			<First>Deidara</First>
+			<Last>Kaguno</Last>
+		</Name>
+		<Credential>
+			<ID>108</ID>
+			<PWD encryption = "Yes">deidara108</PWD>
+		</Credential>
+		<Phone>
+			<Work>4806164924</Work>
+			<Cell Provider = "Sprint">4806164135</Cell>
+		</Phone>
+		</Category>Work</Category>
+	</Person>
+	<Person>
+		<Name>
+			<First>Nagato</First>
+			<Last>Pain</Last>
+		</Name>
+		<Credential>
+			<ID>109</ID>
+			<PWD encryption = "Yes">nagato109</PWD>
+		</Credential>
+		<Phone>
+			<Work>4806165024</Work>
+			<Cell Provider = "Tmobile">4806164136</Cell>
+		</Phone>
+		</Category>Work</Category>
+	</Person>
+	<Person>
+		<Name>
+			<First>Minato</First>
+			<Last>Uzumaki</Last>
+		</Name>
+		<Credential>
+			<ID>110</ID>
+			<PWD encryption = "Yes">minato110</PWD>
+		</Credential>
+		<Phone>
+			<Work>4806165124</Work>
+			<Cell Provider = "Sprint">4806164137</Cell>
+		</Phone>
+		</Category>Family</Category>
+	</Person>
+	<Person>
+		<Name>
+			<First>Jiraiya</First>
+			<Last>Sage</Last>
+		</Name>
+		<Credential>
+			<ID>111</ID>
+			<PWD encryption = "Yes">jiraiya111</PWD>
+		</Credential>
+		<Phone>
+			<Work>4806165224</Work>
+			<Cell>4806164138</Cell>
+		</Phone>
+		</Category>Family</Category>
+	</Person>
+	<Person>
+		<Name>
+			<First>Tsunade</First>
+			<Last>Hokage</Last>
+		</Name>
+		<Credential>
+			<ID>112</ID>
+			<PWD encryption = "Yes">tsunade112</PWD>
+		</Credential>
+		<Phone>
+			<Work>4806165324</Work>
+			<Cell Provider = "ATT">4806164139</Cell>
+		</Phone>
+		</Category>Family</Category>
+	</Person>
+	<Person>
+		<Name>
+			<First>Kakashi</First>
+			<Last>Hatake</Last>
+		</Name>
+		<Credential>
+			<ID>113</ID>
+			<PWD encryption = "Yes">kakashi113</PWD>
+		</Credential>
+		<Phone>
+			<Work>4806165424</Work>
+			<Cell Provider = "Sprint">4806164140</Cell>
+		</Phone>
+		</Category>Family</Category>
+	</Person>
+	<Person>
+		<Name>
+			<First>Might</First>
+			<Last>Guy</Last>
+		</Name>
+		<Credential>
+			<ID>114</ID>
+			<PWD encryption = "Yes">might114</PWD>
+		</Credential>
+		<Phone>
+			<Work>4806165524</Work>
+			<Cell Provider = "Sprint">4806164141</Cell>
+		</Phone>
+		</Category>Family</Category>
+	</Person>
